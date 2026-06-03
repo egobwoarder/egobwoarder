@@ -11,8 +11,7 @@ $\\color{#dbbabc}{\textsf{𝚒𝚖 𝚘𝚏𝚝𝚎𝚗 𝚘𝚏𝚏𝚝𝚊𝚋
  
  [atabook](https://jooc.atabook.org/)
  
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/8f96753b-9463-4296-bdf2-6c44f6fd2357" />  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31esgwrv42lp6mvbczerdpoqczxq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=5c2e31&interchange=false&profanity=false&mode=dark&bar_color=823737&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
-
+<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/8f96753b-9463-4296-bdf2-6c44f6fd2357" />  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31esgwrv42lp6mvbczerdpoqczxq&cover_image=false&theme=novatorem&show_offline=false&background_color=5c2e31&interchange=false&profanity=false&hide_remaster=false&bar_color=5c2e31&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <img width="50" height="50" alt="image" src="https://media.tenor.com/oovntQmQ1O4AAAAj/skatebean-skateboard-phighting.gif" /> 
