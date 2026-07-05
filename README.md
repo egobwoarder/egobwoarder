@@ -7,7 +7,7 @@ $\\color{#dbbabc}{\textsf{𝚒𝚖 𝚘𝚏𝚝𝚎𝚗 𝚘𝚏𝚏𝚝𝚊𝚋
  $\\color{#dbbabc}{\textsf{/𝚠𝚑𝚒𝚜𝚙𝚎𝚛𝚜 𝚙𝚛𝚎𝚏𝚎𝚛𝚛𝚎𝚍 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚒 𝚖𝚊𝚢 𝚗𝚘𝚝 𝚜𝚎𝚎 𝚢𝚘𝚞𝚛 𝚖𝚎𝚜𝚜𝚊𝚐𝚎𝚜 𝚊𝚝 𝚊𝚕𝚕}}$
 
  $\\color{#dbbabc}{\textsf{❥}}$
- [cloud]( https://github.com/nightstrider) , [mia](https://github.com/IRONLUNG0) , [misty](https://github.com/tuesdaysareboring)
+ [cloud]( https://github.com/nightstrider) , [mia](https://github.com/ihateidate) , [misty](https://github.com/tuesdaysareboring)
  
  [atabook](https://jooc.atabook.org/)
  
